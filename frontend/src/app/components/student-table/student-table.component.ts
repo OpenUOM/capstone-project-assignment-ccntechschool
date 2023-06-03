@@ -65,3 +65,7 @@ export class StudentTableComponent implements OnInit {
     }
   }
 }
+
+
+
+
